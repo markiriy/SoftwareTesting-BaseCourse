@@ -1,0 +1,8 @@
+Task
+Using this file perform the requirements analysis,
+mark defects and write questions to Customer.
+If you are participating this course as a part of training,
+mentoring program or university discipline, please ask your
+tutor/mentor for the details on how to submit the result for
+checking. Otherwise just perform the task on your own to get
+some experience.
