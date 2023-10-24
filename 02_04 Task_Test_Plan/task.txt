@@ -1,0 +1,10 @@
+Task
+Using this file as a sample try to write your own test plan 
+for the following project, assuming you have a team of two 
+Developers and two Testers, and 15 working days to complete 
+the project.
+If you are participating this course as a part of training,
+mentoring program or university discipline, please ask your
+tutor/mentor for the details on how to submit the result for
+checking. Otherwise just perform the task on your own to get
+some experience.
